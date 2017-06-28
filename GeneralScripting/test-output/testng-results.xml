@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8945" started-at="2017-06-28T14:13:25Z" finished-at="2017-06-28T14:13:34Z">
+  <suite name="Suite" duration-ms="9183" started-at="2017-06-28T14:24:16Z" finished-at="2017-06-28T14:24:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8945" started-at="2017-06-28T14:13:25Z" finished-at="2017-06-28T14:13:34Z">
+    <test name="Test" duration-ms="9183" started-at="2017-06-28T14:24:16Z" finished-at="2017-06-28T14:24:25Z">
       <class name="generalScripting.Question.Two.FoodTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="4186" started-at="2017-06-28T10:13:25Z" finished-at="2017-06-28T10:13:29Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="4236" started-at="2017-06-28T10:24:16Z" finished-at="2017-06-28T10:24:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findingFoodTest()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="findingFoodTest" duration-ms="99" started-at="2017-06-28T10:13:29Z" finished-at="2017-06-28T10:13:29Z">
+        <test-method status="PASS" signature="findingFoodTest()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="findingFoodTest" duration-ms="327" started-at="2017-06-28T10:24:20Z" finished-at="2017-06-28T10:24:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findingFoodTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="afterMethod" is-config="true" duration-ms="404" started-at="2017-06-28T10:13:29Z" finished-at="2017-06-28T10:13:30Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="afterMethod" is-config="true" duration-ms="387" started-at="2017-06-28T10:24:20Z" finished-at="2017-06-28T10:24:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="3463" started-at="2017-06-28T10:13:30Z" finished-at="2017-06-28T10:13:33Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="3708" started-at="2017-06-28T10:24:21Z" finished-at="2017-06-28T10:24:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="foodsServingTest()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="foodsServingTest" duration-ms="493" started-at="2017-06-28T10:13:33Z" finished-at="2017-06-28T10:13:34Z">
+        <test-method status="PASS" signature="foodsServingTest()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="foodsServingTest" duration-ms="232" started-at="2017-06-28T10:24:24Z" finished-at="2017-06-28T10:24:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- foodsServingTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="afterMethod" is-config="true" duration-ms="287" started-at="2017-06-28T10:13:34Z" finished-at="2017-06-28T10:13:34Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:generalScripting.Question.Two.FoodTest@224edc67]" name="afterMethod" is-config="true" duration-ms="279" started-at="2017-06-28T10:24:25Z" finished-at="2017-06-28T10:24:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- generalScripting.Question.Two.FoodTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
