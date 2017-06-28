@@ -6,4 +6,15 @@
       <class name="generalScripting.Question.Two.FoodTest"/>
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="generalScripting.Question.Two.FoodTest">
+        <methods>
+          <include name="foodsServingTest"/>
+          <include name="findingFoodTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- generalScripting.Question.Two.FoodTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
