@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 
 public class DriverScript {
 	WebDriver driver;
-	private static final String URL = "file:///C:/Users/Mohammad/Desktop/Java-sample/GeneralScripting/problem-1.html";
+	private static final String URL = "file:///D:/Software-Testing-Training/Git-Repo/Job-Repo/GeneralScripting/GeneralScripting/problem-1.html";
 
 	@BeforeMethod
 	public void beforeMethod() {
